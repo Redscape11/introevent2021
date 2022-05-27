@@ -1,3 +1,15 @@
+## Pour lancer le job:
+```GET http://localhost:7777/v1/jobcontroller/job?label=letterJob```
+
+## Pour tester le domaine:
+```GET http://localhost:9623/letter/all```
+
+
+
+
+
+
+
 # Spring Boot & Spring batch & Spring Cloud Stream & Kafa
 
 
